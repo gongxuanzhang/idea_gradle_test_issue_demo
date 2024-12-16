@@ -1,5 +1,14 @@
 ## The green arrow and the command line behave differently
 
+
+## Env
+
+- MacOs 15.0.1
+- IntelliJ IDEA 2024.3.1 (Ultimate Edition)
+- Gradle 8.8
+- JDK 17
+
+
 clone this repository and run the following command:
 
 ```bash
