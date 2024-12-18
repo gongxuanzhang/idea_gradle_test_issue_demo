@@ -1,6 +1,3 @@
-## The green arrow and the command line behave differently
-
-
 ## Env
 
 - MacOs 15.0.1
@@ -8,8 +5,8 @@
 - Gradle 8.8
 - JDK 17
 
-
-clone this repository and run the following command:
+## Command(Right)
+run: 
 
 ```bash
  ./gradlew test
@@ -40,6 +37,11 @@ afterSuite
 afterSuite 
 afterSuite 
 ```
+
+this Result contains My test listener and test case print,it's right.
+
+
+## IDEA Click(Error)
 
 Click on the green arrow to perform results different from what you expect
 
